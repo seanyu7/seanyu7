@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seanyu7
 - 👀 I’m interested in programming, playing FIFA and go to cafe
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for new job oppotunity as a frontedend engineer! Please feel free to contact me!!
 - 📫 Please reach me out through email: yuinzjumpuphand7@gmail.com
 
 <!---
